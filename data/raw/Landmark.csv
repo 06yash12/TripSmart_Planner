@@ -1,0 +1,65 @@
+city,landmark,rating,entry_fee_inr,description,why_visit
+Hyderabad,Charminar,4.5,25,Iconic 16th‑century monument in the heart of the city.,Historic symbol and vibrant old city atmosphere.
+Hyderabad,Golconda Fort,4.4,100,Massive hilltop fort known for acoustic design.,Panoramic views and evening light show.
+Hyderabad,Ramoji Film City,4.4,1350,World’s largest integrated film studio complex.,Studio tours and entertainment experiences.
+Hyderabad,Chowmahalla Palace,4.3,80,Former residence of the Nizams of Hyderabad.,Royal architecture and heritage collections.
+Hyderabad,Salar Jung Museum,4.4,50,One of India’s largest art museums.,Rare global art collections.
+Hyderabad,Birla Mandir,4.5,0,White marble Hindu temple on a hill.,Peaceful views over the city.
+Hyderabad,Hussain Sagar Lake,4.2,0,Large artificial lake with Buddha statue.,Relaxing boat rides and sunset views.
+Hyderabad,Nehru Zoological Park,4.3,60,Popular zoo with safari options.,Family-friendly wildlife experience.
+Delhi,India Gate,4.6,0,War memorial dedicated to Indian soldiers.,Evening strolls and patriotic landmark.
+Delhi,Qutub Minar,4.5,40,UNESCO-listed tallest brick minaret.,Historic Indo-Islamic architecture.
+Delhi,Red Fort,4.5,35,Mughal-era fort and independence symbol.,Rich history and light show.
+Delhi,Humayun’s Tomb,4.5,40,Mughal garden tomb and UNESCO site.,Architectural precursor to the Taj Mahal.
+Delhi,Lotus Temple,4.6,0,Bahá'í temple shaped like a lotus.,Symbol of peace and unity.
+Delhi,Akshardham Temple,4.7,0,Grand modern Hindu temple complex.,Cultural exhibits and evening water show.
+Delhi,Jama Masjid,4.5,0,One of India’s largest mosques.,Panoramic Old Delhi views.
+Delhi,Rashtrapati Bhavan,4.6,50,Official residence of the President of India.,Grand colonial architecture.
+Mumbai,Gateway of India,4.6,0,Iconic colonial-era waterfront arch.,Popular sunset and ferry point.
+Mumbai,Elephanta Caves,4.4,40,Ancient rock-cut cave temples.,UNESCO heritage and sculptures.
+Mumbai,Marine Drive,4.7,0,Scenic coastal promenade.,Famous Queen’s Necklace night view.
+Mumbai,Siddhivinayak Temple,4.7,0,Famous Hindu temple dedicated to Ganesha.,Spiritual and cultural landmark.
+Mumbai,Chhatrapati Shivaji Maharaj Terminus,4.7,0,Historic railway station and UNESCO site.,Victorian Gothic architecture.
+Mumbai,Haji Ali Dargah,4.6,0,Mosque located on an islet.,Spiritual site with sea views.
+Mumbai,Juhu Beach,4.3,0,Popular urban beach.,Street food and sunset vibes.
+Mumbai,Sanjay Gandhi National Park,4.4,85,Large protected forest area.,Nature trails and Kanheri Caves.
+Bangalore,Lalbagh Botanical Garden,4.5,30,Historic botanical garden.,Glasshouse and flower shows.
+Bangalore,Bangalore Palace,4.3,230,Royal Tudor-style palace.,Lavish interiors and architecture.
+Bangalore,Cubbon Park,4.5,0,Green urban park in city center.,Relaxing open spaces.
+Bangalore,ISKCON Temple,4.7,0,Modern temple dedicated to Krishna.,Spiritual ambiance.
+Bangalore,Bannerghatta National Park,4.3,80,Wildlife park and safari.,Close wildlife encounters.
+Bangalore,Vidhana Soudha,4.6,0,Seat of Karnataka legislature.,Impressive neo-Dravidian architecture.
+Bangalore,Tipu Sultan’s Summer Palace,4.2,25,18th-century wooden palace.,Indo-Islamic architecture.
+Bangalore,Nandi Hills,4.4,0,Hill station near Bangalore.,Sunrise and scenic views.
+Chennai,Marina Beach,4.3,0,One of the longest urban beaches.,Sea breeze and local culture.
+Chennai,Kapaleeshwarar Temple,4.7,0,Ancient Dravidian-style temple.,Religious and architectural beauty.
+Chennai,Fort St. George,4.2,50,First British fortress in India.,Colonial museum and history.
+Chennai,San Thome Basilica,4.5,0,Historic church built over St. Thomas’ tomb.,Spiritual significance.
+Chennai,Government Museum,4.3,15,Second oldest museum in India.,Art and archaeological collections.
+Chennai,Valluvar Kottam,4.3,0,Monument dedicated to Tamil poet Thiruvalluvar.,Cultural landmark.
+Chennai,Guindy National Park,4.2,20,Protected park within city.,Wildlife and greenery.
+Chennai,Elliot’s Beach,4.4,0,Popular peaceful beach.,Relaxed atmosphere.
+Kolkata,Victoria Memorial,4.6,30,Marble monument and museum.,British-era grandeur.
+Kolkata,Howrah Bridge,4.4,0,Iconic cantilever bridge.,Symbol of Kolkata.
+Kolkata,Dakshineswar Kali Temple,4.7,0,Famous riverside temple.,Religious significance.
+Kolkata,Indian Museum,4.4,50,Oldest museum in India.,Rare fossils and artifacts.
+Kolkata,Marble Palace,4.3,0,Historic mansion with art collections.,Unique heritage house.
+Kolkata,St. Paul’s Cathedral,4.6,0,Gothic-style Anglican cathedral.,Peaceful historic site.
+Kolkata,Eco Park,4.4,30,Large urban park with attractions.,Family recreation spot.
+Kolkata,Science City,4.4,60,Interactive science center.,Educational entertainment.
+Jaipur,Amber Fort,4.6,100,Hilltop Rajput fort.,Elephant rides and views.
+Jaipur,Hawa Mahal,4.4,50,Palace of Winds.,Unique façade and balconies.
+Jaipur,City Palace,4.5,200,Royal residence complex.,Museum and courtyards.
+Jaipur,Jantar Mantar,4.5,50,Astronomical observatory.,UNESCO scientific heritage.
+Jaipur,Nahargarh Fort,4.4,50,Fort overlooking Jaipur.,Sunset viewpoints.
+Jaipur,Jaigarh Fort,4.4,85,Historic military fort.,Home to world’s largest cannon.
+Jaipur,Albert Hall Museum,4.4,40,Indo-Saracenic museum.,Art and artifacts.
+Jaipur,Birla Mandir Jaipur,4.6,0,White marble temple.,Peaceful evening spot.
+Goa,Fort Aguada,4.5,0,Portuguese-era sea fort.,Sunset and lighthouse views.
+Goa,Baga Beach,4.4,0,Popular beach destination.,Water sports and nightlife.
+Goa,Calangute Beach,4.3,0,Largest beach in North Goa.,Crowd and activities.
+Goa,Basilica of Bom Jesus,4.7,0,UNESCO-listed church.,Houses relics of St. Francis Xavier.
+Goa,Dudhsagar Falls,4.6,400,Four-tiered waterfall.,Spectacular monsoon views.
+Goa,Chapora Fort,4.3,0,Fort with Arabian Sea views.,Famous movie location.
+Goa,Anjuna Beach,4.3,0,Beach known for flea markets.,Bohemian vibe.
+Goa,Se Cathedral,4.6,0,Large Portuguese-era cathedral.,Historic architecture.

@@ -1,0 +1,273 @@
+{
+    "adult_expenses": {
+        "food_breakfast": 200,
+        "food_lunch": 400,
+        "food_dinner": 500,
+        "food_snacks": 150,
+        "local_transport_per_day": 300,
+        "shopping_per_day": 500,
+        "activities_per_day": 300,
+        "miscellaneous_per_day": 200
+    },
+    "child_expenses": {
+        "food_breakfast": 100,
+        "food_lunch": 200,
+        "food_dinner": 250,
+        "food_snacks": 100,
+        "local_transport_per_day": 0,
+        "shopping_per_day": 200,
+        "activities_per_day": 150,
+        "miscellaneous_per_day": 100
+    },
+    "shared_expenses": {
+        "taxi_airport_pickup": 600,
+        "taxi_airport_drop": 600,
+        "travel_insurance_per_person_per_day": 50,
+        "emergency_fund_per_trip": 2000,
+        "sim_card_data_per_person": 400,
+        "tips_gratuity_per_day": 150,
+        "guide_charges_per_day": 800,
+        "parking_per_day": 100
+    },
+    "city_specific_transport": {
+        "Hyderabad": {
+            "metro_day_pass": 100,
+            "auto_rickshaw_avg": 150,
+            "cab_per_km": 15,
+            "bus_day_pass": 50
+        },
+        "Delhi": {
+            "metro_day_pass": 150,
+            "auto_rickshaw_avg": 200,
+            "cab_per_km": 18,
+            "bus_day_pass": 60
+        },
+        "Mumbai": {
+            "metro_day_pass": 120,
+            "auto_rickshaw_avg": 180,
+            "cab_per_km": 20,
+            "bus_day_pass": 70,
+            "local_train_day_pass": 80
+        },
+        "Bangalore": {
+            "metro_day_pass": 110,
+            "auto_rickshaw_avg": 160,
+            "cab_per_km": 16,
+            "bus_day_pass": 55
+        },
+        "Chennai": {
+            "metro_day_pass": 100,
+            "auto_rickshaw_avg": 140,
+            "cab_per_km": 14,
+            "bus_day_pass": 50
+        },
+        "Kolkata": {
+            "metro_day_pass": 90,
+            "auto_rickshaw_avg": 130,
+            "cab_per_km": 13,
+            "bus_day_pass": 45
+        },
+        "Jaipur": {
+            "metro_day_pass": 0,
+            "auto_rickshaw_avg": 150,
+            "cab_per_km": 14,
+            "bus_day_pass": 40
+        },
+        "Goa": {
+            "metro_day_pass": 0,
+            "auto_rickshaw_avg": 120,
+            "cab_per_km": 15,
+            "bus_day_pass": 35,
+            "bike_rental_per_day": 400,
+            "scooter_rental_per_day": 350
+        }
+    },
+    "city_specific_food": {
+        "Hyderabad": {
+            "street_food_avg": 100,
+            "mid_range_restaurant": 400,
+            "fine_dining": 1200,
+            "famous_dish": "Hyderabadi Biryani - ₹250"
+        },
+        "Delhi": {
+            "street_food_avg": 120,
+            "mid_range_restaurant": 500,
+            "fine_dining": 1500,
+            "famous_dish": "Butter Chicken - ₹350"
+        },
+        "Mumbai": {
+            "street_food_avg": 150,
+            "mid_range_restaurant": 600,
+            "fine_dining": 2000,
+            "famous_dish": "Vada Pav - ₹30, Pav Bhaji - ₹150"
+        },
+        "Bangalore": {
+            "street_food_avg": 110,
+            "mid_range_restaurant": 450,
+            "fine_dining": 1400,
+            "famous_dish": "Masala Dosa - ₹80"
+        },
+        "Chennai": {
+            "street_food_avg": 100,
+            "mid_range_restaurant": 400,
+            "fine_dining": 1200,
+            "famous_dish": "Idli Sambar - ₹60"
+        },
+        "Kolkata": {
+            "street_food_avg": 90,
+            "mid_range_restaurant": 380,
+            "fine_dining": 1100,
+            "famous_dish": "Kathi Roll - ₹80, Rosogolla - ₹50"
+        },
+        "Jaipur": {
+            "street_food_avg": 100,
+            "mid_range_restaurant": 400,
+            "fine_dining": 1300,
+            "famous_dish": "Dal Baati Churma - ₹200"
+        },
+        "Goa": {
+            "street_food_avg": 130,
+            "mid_range_restaurant": 500,
+            "fine_dining": 1600,
+            "famous_dish": "Fish Curry Rice - ₹300"
+        }
+    },
+    "activity_costs": {
+        "city_tour_per_person": 800,
+        "heritage_walk_per_person": 500,
+        "food_tour_per_person": 1200,
+        "adventure_activity_per_person": 1500,
+        "water_sports_per_person": 2000,
+        "museum_entry_avg": 100,
+        "fort_palace_entry_avg": 200,
+        "temple_entry_avg": 50,
+        "photography_charges": 100,
+        "audio_guide_rental": 150
+    },
+    "shopping_estimates": {
+        "souvenirs_per_person": 500,
+        "clothing_per_person": 1000,
+        "handicrafts_per_person": 800,
+        "jewelry_per_person": 2000,
+        "books_per_person": 300,
+        "spices_food_items": 500
+    },
+    "budget_categories": {
+        "budget": {
+            "food_multiplier": 0.8,
+            "hotel_max_per_night": 2000,
+            "transport_preference": "train",
+            "activities_budget_per_day": 500,
+            "shopping_budget_per_day": 300,
+            "description": "Basic accommodation, local food, public transport"
+        },
+        "moderate": {
+            "food_multiplier": 1.2,
+            "hotel_max_per_night": 5000,
+            "transport_preference": "flight",
+            "activities_budget_per_day": 1200,
+            "shopping_budget_per_day": 800,
+            "description": "Comfortable hotels, mix of local and restaurants, flights"
+        },
+        "luxury": {
+            "food_multiplier": 2.0,
+            "hotel_max_per_night": 12000,
+            "transport_preference": "flight_business",
+            "activities_budget_per_day": 3000,
+            "shopping_budget_per_day": 2000,
+            "description": "Premium hotels, fine dining, business class flights"
+        },
+        "ultra_luxury": {
+            "food_multiplier": 3.0,
+            "hotel_max_per_night": 25000,
+            "transport_preference": "flight_first_class",
+            "activities_budget_per_day": 5000,
+            "shopping_budget_per_day": 5000,
+            "description": "5-star hotels, gourmet dining, first class flights, private tours"
+        }
+    },
+    "seasonal_multipliers": {
+        "peak_season": {
+            "months": [
+                10,
+                11,
+                12,
+                1,
+                2
+            ],
+            "hotel_multiplier": 1.5,
+            "activity_multiplier": 1.3,
+            "description": "October to February - Pleasant weather, festivals"
+        },
+        "shoulder_season": {
+            "months": [
+                3,
+                4,
+                9
+            ],
+            "hotel_multiplier": 1.2,
+            "activity_multiplier": 1.1,
+            "description": "March, April, September - Moderate weather"
+        },
+        "off_season": {
+            "months": [
+                5,
+                6,
+                7,
+                8
+            ],
+            "hotel_multiplier": 0.7,
+            "activity_multiplier": 0.9,
+            "description": "May to August - Monsoon/Summer, fewer tourists"
+        }
+    },
+    "travel_insurance": {
+        "basic_per_person_per_day": 50,
+        "comprehensive_per_person_per_day": 100,
+        "premium_per_person_per_day": 200,
+        "coverage_basic": "Medical emergency, trip cancellation",
+        "coverage_comprehensive": "Medical, cancellation, baggage loss, delay",
+        "coverage_premium": "All comprehensive + adventure activities"
+    },
+    "visa_documentation": {
+        "domestic_id_required": true,
+        "international_visa_fee": 0,
+        "passport_photos": 50,
+        "document_courier": 100
+    },
+    "connectivity": {
+        "sim_card_prepaid": 400,
+        "data_pack_1gb": 50,
+        "data_pack_2gb": 80,
+        "international_roaming_per_day": 500,
+        "portable_wifi_rental_per_day": 300
+    },
+    "health_safety": {
+        "first_aid_kit": 500,
+        "medicines_basic": 300,
+        "sanitizer_masks": 200,
+        "water_bottles_per_day": 50,
+        "sunscreen_insect_repellent": 400
+    },
+    "special_occasions": {
+        "birthday_celebration": 2000,
+        "anniversary_celebration": 3000,
+        "honeymoon_package_extra": 5000,
+        "festival_special_events": 1500
+    },
+    "notes": {
+        "currency": "INR (Indian Rupees)",
+        "last_updated": "2026-03-01",
+        "price_variation": "Prices may vary by 10-20% based on location and season",
+        "tips": [
+            "Book flights and hotels in advance for better rates",
+            "Carry sufficient cash for small vendors and local transport",
+            "Bargain at local markets for better shopping deals",
+            "Try local street food for authentic experience",
+            "Use metro/public transport in cities to save money",
+            "Check for combo tickets at tourist attractions",
+            "Download offline maps and translation apps",
+            "Keep emergency contacts and insurance details handy"
+        ]
+    }
+}

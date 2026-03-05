@@ -1,0 +1,288 @@
+{
+    "trips": [
+        {
+            "trip_id": "TRIP001",
+            "user_id": "USER001",
+            "user_name": "Rajesh Kumar",
+            "from_city": "Hyderabad",
+            "to_city": "Delhi",
+            "travel_dates": {
+                "start_date": "2025-12-15",
+                "end_date": "2025-12-20",
+                "duration_days": 5
+            },
+            "travelers": {
+                "adults": 2,
+                "children": 1
+            },
+            "budget_category": "moderate",
+            "preferences": {
+                "transport": "flight",
+                "hotel_rating_min": 4.0,
+                "interests": ["historical", "food", "shopping"]
+            },
+            "booking_status": "completed",
+            "total_cost": 85000,
+            "created_at": "2025-11-01T10:30:00Z"
+        },
+        {
+            "trip_id": "TRIP002",
+            "user_id": "USER002",
+            "user_name": "Priya Sharma",
+            "from_city": "Mumbai",
+            "to_city": "Goa",
+            "travel_dates": {
+                "start_date": "2026-01-10",
+                "end_date": "2026-01-14",
+                "duration_days": 4
+            },
+            "travelers": {
+                "adults": 4,
+                "children": 0
+            },
+            "budget_category": "luxury",
+            "preferences": {
+                "transport": "flight",
+                "hotel_rating_min": 4.5,
+                "interests": ["beach", "nightlife", "water_sports"]
+            },
+            "booking_status": "confirmed",
+            "total_cost": 120000,
+            "created_at": "2025-12-20T14:15:00Z"
+        },
+        {
+            "trip_id": "TRIP003",
+            "user_id": "USER003",
+            "user_name": "Amit Patel",
+            "from_city": "Bangalore",
+            "to_city": "Jaipur",
+            "travel_dates": {
+                "start_date": "2026-02-05",
+                "end_date": "2026-02-09",
+                "duration_days": 4
+            },
+            "travelers": {
+                "adults": 2,
+                "children": 2
+            },
+            "budget_category": "budget",
+            "preferences": {
+                "transport": "train",
+                "hotel_rating_min": 3.5,
+                "interests": ["heritage", "culture", "family_friendly"]
+            },
+            "booking_status": "planning",
+            "total_cost": 45000,
+            "created_at": "2026-01-15T09:00:00Z"
+        },
+        {
+            "trip_id": "TRIP004",
+            "user_id": "USER004",
+            "user_name": "Sneha Reddy",
+            "from_city": "Chennai",
+            "to_city": "Mumbai",
+            "travel_dates": {
+                "start_date": "2026-03-20",
+                "end_date": "2026-03-25",
+                "duration_days": 5
+            },
+            "travelers": {
+                "adults": 1,
+                "children": 0
+            },
+            "budget_category": "moderate",
+            "preferences": {
+                "transport": "flight",
+                "hotel_rating_min": 4.0,
+                "interests": ["business", "shopping", "food"]
+            },
+            "booking_status": "confirmed",
+            "total_cost": 55000,
+            "created_at": "2026-02-10T11:45:00Z"
+        },
+        {
+            "trip_id": "TRIP005",
+            "user_id": "USER005",
+            "user_name": "Vikram Singh",
+            "from_city": "Delhi",
+            "to_city": "Bangalore",
+            "travel_dates": {
+                "start_date": "2025-11-25",
+                "end_date": "2025-11-28",
+                "duration_days": 3
+            },
+            "travelers": {
+                "adults": 3,
+                "children": 0
+            },
+            "budget_category": "luxury",
+            "preferences": {
+                "transport": "flight",
+                "hotel_rating_min": 4.5,
+                "interests": ["technology", "nightlife", "fine_dining"]
+            },
+            "booking_status": "completed",
+            "total_cost": 95000,
+            "created_at": "2025-10-15T16:20:00Z"
+        },
+        {
+            "trip_id": "TRIP006",
+            "user_id": "USER006",
+            "user_name": "Ananya Iyer",
+            "from_city": "Kolkata",
+            "to_city": "Hyderabad",
+            "travel_dates": {
+                "start_date": "2026-04-12",
+                "end_date": "2026-04-16",
+                "duration_days": 4
+            },
+            "travelers": {
+                "adults": 2,
+                "children": 1
+            },
+            "budget_category": "moderate",
+            "preferences": {
+                "transport": "flight",
+                "hotel_rating_min": 4.0,
+                "interests": ["food", "historical", "shopping"]
+            },
+            "booking_status": "planning",
+            "total_cost": 62000,
+            "created_at": "2026-03-01T08:30:00Z"
+        },
+        {
+            "trip_id": "TRIP007",
+            "user_id": "USER007",
+            "user_name": "Karthik Menon",
+            "from_city": "Hyderabad",
+            "to_city": "Goa",
+            "travel_dates": {
+                "start_date": "2026-05-01",
+                "end_date": "2026-05-07",
+                "duration_days": 6
+            },
+            "travelers": {
+                "adults": 2,
+                "children": 0
+            },
+            "budget_category": "luxury",
+            "preferences": {
+                "transport": "flight",
+                "hotel_rating_min": 4.7,
+                "interests": ["beach", "relaxation", "water_sports", "honeymoon"]
+            },
+            "booking_status": "confirmed",
+            "total_cost": 145000,
+            "created_at": "2026-03-15T13:00:00Z"
+        },
+        {
+            "trip_id": "TRIP008",
+            "user_id": "USER008",
+            "user_name": "Deepa Nair",
+            "from_city": "Jaipur",
+            "to_city": "Chennai",
+            "travel_dates": {
+                "start_date": "2026-01-20",
+                "end_date": "2026-01-24",
+                "duration_days": 4
+            },
+            "travelers": {
+                "adults": 1,
+                "children": 0
+            },
+            "budget_category": "budget",
+            "preferences": {
+                "transport": "train",
+                "hotel_rating_min": 3.8,
+                "interests": ["temples", "culture", "food"]
+            },
+            "booking_status": "completed",
+            "total_cost": 28000,
+            "created_at": "2025-12-10T10:00:00Z"
+        },
+        {
+            "trip_id": "TRIP009",
+            "user_id": "USER009",
+            "user_name": "Rohan Gupta",
+            "from_city": "Mumbai",
+            "to_city": "Kolkata",
+            "travel_dates": {
+                "start_date": "2026-02-14",
+                "end_date": "2026-02-18",
+                "duration_days": 4
+            },
+            "travelers": {
+                "adults": 2,
+                "children": 0
+            },
+            "budget_category": "moderate",
+            "preferences": {
+                "transport": "flight",
+                "hotel_rating_min": 4.2,
+                "interests": ["heritage", "food", "art"]
+            },
+            "booking_status": "confirmed",
+            "total_cost": 68000,
+            "created_at": "2026-01-05T15:30:00Z"
+        },
+        {
+            "trip_id": "TRIP010",
+            "user_id": "USER010",
+            "user_name": "Meera Desai",
+            "from_city": "Bangalore",
+            "to_city": "Delhi",
+            "travel_dates": {
+                "start_date": "2026-03-08",
+                "end_date": "2026-03-13",
+                "duration_days": 5
+            },
+            "travelers": {
+                "adults": 3,
+                "children": 2
+            },
+            "budget_category": "moderate",
+            "preferences": {
+                "transport": "flight",
+                "hotel_rating_min": 4.0,
+                "interests": ["historical", "shopping", "family_friendly"]
+            },
+            "booking_status": "planning",
+            "total_cost": 98000,
+            "created_at": "2026-02-01T12:00:00Z"
+        }
+    ],
+    "user_preferences": {
+        "USER001": {
+            "favorite_destinations": ["Delhi", "Jaipur", "Agra"],
+            "preferred_airlines": ["IndiGo", "Vistara"],
+            "preferred_hotel_chains": ["Taj", "ITC"],
+            "dietary_preferences": ["vegetarian"],
+            "travel_frequency": "quarterly"
+        },
+        "USER002": {
+            "favorite_destinations": ["Goa", "Kerala", "Maldives"],
+            "preferred_airlines": ["Vistara", "Air India"],
+            "preferred_hotel_chains": ["Taj", "Oberoi"],
+            "dietary_preferences": ["non-vegetarian"],
+            "travel_frequency": "monthly"
+        },
+        "USER003": {
+            "favorite_destinations": ["Jaipur", "Udaipur", "Jodhpur"],
+            "preferred_airlines": ["SpiceJet", "IndiGo"],
+            "preferred_hotel_chains": ["Budget hotels", "Heritage properties"],
+            "dietary_preferences": ["vegetarian", "jain"],
+            "travel_frequency": "bi-annually"
+        }
+    },
+    "statistics": {
+        "total_trips": 10,
+        "completed_trips": 3,
+        "confirmed_trips": 4,
+        "planning_trips": 3,
+        "total_revenue": 801000,
+        "average_trip_cost": 80100,
+        "most_popular_destination": "Delhi",
+        "most_popular_source": "Hyderabad",
+        "peak_booking_month": "January"
+    }
+}

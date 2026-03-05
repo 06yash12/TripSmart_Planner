@@ -1,0 +1,81 @@
+city,hotel_name,rating,price_1p_inr,price_2p_inr,price_3p_inr,price_4p_inr,amenities,nearest_landmark,base_2p_rate_inr
+Hyderabad,Taj Falaknuma Palace,4.7,8400,12000,16800,21600,Pool; Free WiFi; Spa; Airport transfer,Charminar,12000
+Hyderabad,The Golkonda Hotel,4.4,3150,4500,6300,8100,Free WiFi; Restaurant; Pool; Gym,Golconda Fort,4500
+Hyderabad,ITC Kakatiya,4.5,4900,7000,9800,12600,Pool; Free WiFi; Spa; Business Center,Charminar,7000
+Hyderabad,Hotel Green Park,4.1,2450,3500,4900,6300,Free WiFi; Restaurant; Airport shuttle,Hussain Sagar,3500
+Hyderabad,Novotel Hyderabad,4.3,4200,6000,8400,10800,Pool; Gym; Free WiFi; Restaurant,Charminar,6000
+Hyderabad,The Park Hyderabad,4.2,2940,4200,5880,7560,Pool; Rooftop; Bar; Free WiFi,Charminar,4200
+Hyderabad,Hotel Nayaab,4.0,840,1200,1680,2160,Free WiFi; Airport transfer; AC,Charminar,1200
+Hyderabad,FabHotel Grand,3.8,630,900,1260,1620,Free WiFi; AC; Breakfast,Charminar,900
+Hyderabad,Treebo Trend Hotel,3.9,770,1100,1540,1980,Free WiFi; Breakfast; AC,Charminar,1100
+Hyderabad,Taj Krishna,4.6,6650,9500,13300,17100,Pool; Spa; Free WiFi; Fine Dining,Charminar,9500
+Delhi,The Leela Palace,4.7,9800,14000,19600,25200,Luxury spa; Pool; Fine dining; Free WiFi,India Gate,14000
+Delhi,ITC Maurya,4.6,8400,12000,16800,21600,Pool; Spa; Free WiFi; Business Center,India Gate,12000
+Delhi,Taj Palace,4.6,7000,10000,14000,18000,Pool; Airport transfer; Spa; Free WiFi,India Gate,10000
+Delhi,The Claridges,4.4,4550,6500,9100,11700,Garden; Restaurant; Free WiFi,India Gate,6500
+Delhi,The Imperial,4.6,7700,11000,15400,19800,Heritage; Fine dining; Spa; Free WiFi,India Gate,11000
+Delhi,Hotel Ajanta,4.0,1260,1800,2520,3240,Free WiFi; Restaurant; AC,India Gate,1800
+Delhi,Bloomrooms @ Janpath,4.0,1120,1600,2240,2880,Free WiFi; AC; Central location,India Gate,1600
+Delhi,FabHotel Midtown,3.8,840,1200,1680,2160,Free WiFi; AC; Breakfast,India Gate,1200
+Delhi,Hotel Grand Godwin,4.1,1610,2300,3220,4140,Free WiFi; Restaurant; Airport shuttle,India Gate,2300
+Delhi,Taj Mahal Hotel New Delhi,4.5,6300,9000,12600,16200,Pool; Spa; Free WiFi; Luxury,India Gate,9000
+Mumbai,The Taj Mahal Palace,4.7,10500,15000,21000,27000,Sea view; Pool; Spa; Fine dining,Gateway of India,15000
+Mumbai,The Oberoi,4.6,9800,14000,19600,25200,Luxury spa; Pool; Free WiFi,Gateway of India,14000
+Mumbai,Trident Nariman Point,4.5,6300,9000,12600,16200,Sea view; Pool; Gym; Free WiFi,Gateway of India,9000
+Mumbai,Hotel Marine Plaza,4.3,4900,7000,9800,12600,Sea view; Rooftop; Free WiFi,Gateway of India,7000
+Mumbai,The Gordon House Hotel,4.1,2660,3800,5320,6840,Free WiFi; Restaurant; AC,Gateway of India,3800
+Mumbai,Hotel Residency Fort,4.0,1750,2500,3500,4500,Free WiFi; Central location,Gateway of India,2500
+Mumbai,Treebo Trend Hotel,3.9,840,1200,1680,2160,Free WiFi; AC; Breakfast,Gateway of India,1200
+Mumbai,YMCA International House,4.0,1120,1600,2240,2880,Budget rooms; Free WiFi,Gateway of India,1600
+Mumbai,Le Sutra - The Theme Hotel,4.2,3360,4800,6720,8640,Boutique; Free WiFi; AC,Gateway of India,4800
+Mumbai,ITC Maratha,4.5,5950,8500,11900,15300,Pool; Spa; Free WiFi,Gateway of India,8500
+Bangalore,Taj West End,4.6,6300,9000,12600,16200,Garden; Pool; Spa; Free WiFi,Lalbagh Botanical Garden,9000
+Bangalore,The Leela Palace Bengaluru,4.7,9800,14000,19600,25200,Luxury; Spa; Pool; Free WiFi,Lalbagh Botanical Garden,14000
+Bangalore,ITC Gardenia,4.6,5950,8500,11900,15300,Pool; Free WiFi; Business Center,Lalbagh Botanical Garden,8500
+Bangalore,The Oberoi Bengaluru,4.6,6650,9500,13300,17100,Luxury spa; Pool; Free WiFi,Lalbagh Botanical Garden,9500
+Bangalore,Taj MG Road,4.4,4900,7000,9800,12600,Central; Pool; Free WiFi,Lalbagh Botanical Garden,7000
+Bangalore,The Park Bangalore,4.1,2940,4200,5880,7560,Rooftop; Bar; Free WiFi,Lalbagh Botanical Garden,4200
+Bangalore,Hotel Royal Orchid,4.2,3360,4800,6720,8640,Pool; Free WiFi; Restaurant,Lalbagh Botanical Garden,4800
+Bangalore,FabHotel Central,3.9,770,1100,1540,1980,Budget; Free WiFi; AC,Lalbagh Botanical Garden,1100
+Bangalore,Treebo Trend MG Road,3.8,630,900,1260,1620,Free WiFi; AC; Breakfast,Lalbagh Botanical Garden,900
+Bangalore,Casa Cottage,4.0,1400,2000,2800,3600,Boutique; Free WiFi; AC,Lalbagh Botanical Garden,2000
+Chennai,ITC Grand Chola,4.7,7000,10000,14000,18000,Luxury spa; Pool; Fine dining,Marina Beach,10000
+Chennai,The Leela Palace Chennai,4.6,8400,12000,16800,21600,Sea view; Pool; Spa; Free WiFi,Marina Beach,12000
+Chennai,Park Hyatt Chennai,4.5,5950,8500,11900,15300,Pool; Spa; Free WiFi,Marina Beach,8500
+Chennai,Hotel Savera,4.0,2100,3000,4200,5400,Pool; Free WiFi; Restaurant,Marina Beach,3000
+Chennai,The Residency Towers,4.1,2940,4200,5880,7560,Central; Free WiFi; Restaurant,Marina Beach,4200
+Chennai,The Raintree,4.2,2450,3500,4900,6300,Pool; Rooftop; Free WiFi,Marina Beach,3500
+Chennai,Treebo Trend Hotel,3.9,840,1200,1680,2160,Budget; Free WiFi; AC,Marina Beach,1200
+Chennai,FabHotel Marina,3.8,630,900,1260,1620,Budget; Free WiFi; AC,Marina Beach,900
+Chennai,Clarks Inn,3.9,1120,1600,2240,2880,Free WiFi; Central location,Marina Beach,1600
+Chennai,The Park Chennai,4.0,2660,3800,5320,6840,Rooftop bar; Free WiFi,Marina Beach,3800
+Kolkata,The Oberoi Grand,4.6,6300,9000,12600,16200,Colonial luxury; Pool; Free WiFi,Victoria Memorial,9000
+Kolkata,ITC Sonar,4.5,5950,8500,11900,15300,Pool; Spa; Free WiFi,Victoria Memorial,8500
+Kolkata,The Park Kolkata,4.2,2940,4200,5880,7560,Rooftop; Bar; Free WiFi,Victoria Memorial,4200
+Kolkata,Taj Bengal,4.5,5600,8000,11200,14400,Luxury; Pool; Free WiFi,Victoria Memorial,8000
+Kolkata,The LaLiT Great Eastern,4.3,3360,4800,6720,8640,Heritage; Free WiFi; Restaurant,Victoria Memorial,4800
+Kolkata,The Peerless Inn,4.0,1540,2200,3080,3960,Free WiFi; Central,Victoria Memorial,2200
+Kolkata,Hotel Casa Fortuna,3.9,840,1200,1680,2160,Budget; Free WiFi; AC,Victoria Memorial,1200
+Kolkata,JUNEE Hotel,3.8,630,900,1260,1620,Budget; Free WiFi; AC,Victoria Memorial,900
+Kolkata,OYO Rooms Park Street,3.7,490,700,980,1260,Budget; Free WiFi; AC,Victoria Memorial,700
+Kolkata,Swissôtel Kolkata,4.5,5250,7500,10500,13500,Luxury; Pool; Free WiFi,Victoria Memorial,7500
+Jaipur,Taj Rambagh Palace,4.7,7700,11000,15400,19800,Heritage palace; Pool; Fine dining,Amber Fort,11000
+Jaipur,ITC Rajputana,4.5,4550,6500,9100,11700,Luxury; Pool; Free WiFi,Amber Fort,6500
+Jaipur,Rambagh Palace,4.6,7000,10000,14000,18000,Heritage; Gardens; Luxury,Amber Fort,10000
+Jaipur,Alsisar Haveli,4.2,2800,4000,5600,7200,Heritage hotel; Free WiFi,Amber Fort,4000
+Jaipur,Hilton Jaipur,4.3,3640,5200,7280,9360,Pool; Free WiFi; Gym,Amber Fort,5200
+Jaipur,Hotel Pearl Palace,4.0,840,1200,1680,2160,Boutique; Free WiFi; Rooftop,Amber Fort,1200
+Jaipur,Trident Jaipur,4.4,4900,7000,9800,12600,Pool; Free WiFi; Garden,Amber Fort,7000
+Jaipur,Shahpura House,4.1,1050,1500,2100,2700,Heritage guesthouse; Free WiFi,Amber Fort,1500
+Jaipur,Jaiwana Haveli,4.0,910,1300,1820,2340,Rooftop; Heritage feel; Free WiFi,Amber Fort,1300
+Jaipur,Umaid Bhawan Heritage,3.9,630,900,1260,1620,Budget heritage; Free WiFi,Amber Fort,900
+Goa,Taj Fort Aguada Resort,4.6,7700,11000,15400,19800,Sea view; Pool; Spa; Private beach,Fort Aguada,11000
+Goa,Park Hyatt Goa,4.5,6300,9000,12600,16200,Luxury; Pool; Private beach,Fort Aguada,9000
+Goa,Hilton Goa,4.4,4900,7000,9800,12600,Pool; Beach access; Free WiFi,Fort Aguada,7000
+Goa,W Goa,4.5,8400,12000,16800,21600,Luxury; Beach club; Spa,Baga Beach,12000
+Goa,Resort Rio,4.2,2800,4000,5600,7200,Pool; Free WiFi; Family friendly,Fort Aguada,4000
+Goa,Colonia Santa Maria,4.1,2450,3500,4900,6300,Boutique; Free WiFi; Beach nearby,Fort Aguada,3500
+Goa,La Sunila Suites,3.9,1260,1800,2520,3240,Budget; Free WiFi; AC,Baga Beach,1800
+Goa,Treebo Trend Resort,3.8,840,1200,1680,2160,Budget; Pool; Free WiFi,Baga Beach,1200
+Goa,Jasminn Resort,3.9,1120,1600,2240,2880,Resort; Pool; Free WiFi,Baga Beach,1600
+Goa,Cidade de Goa,4.3,3150,4500,6300,8100,Beach resort; Pool; Free WiFi,Baga Beach,4500

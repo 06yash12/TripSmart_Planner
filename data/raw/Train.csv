@@ -1,0 +1,113 @@
+train_no,train_name,from_city,to_city,duration_hours,SL_price_inr,3AC_price_inr,2AC_price_inr,1AC_price_inr
+12002,Bhopal Shatabdi Express,Hyderabad,Delhi,30,1000,2300,3300,5500
+12301,Howrah Rajdhani Express,Hyderabad,Delhi,22,840,1931,2772,4620
+12007,Mysuru Shatabdi Express,Hyderabad,Mumbai,21,820,1885,2706,4510
+12953,August Kranti Rajdhani Express,Hyderabad,Mumbai,21,820,1885,2706,4510
+12627,Karnataka Express,Hyderabad,Bangalore,28,960,2208,3168,5280
+11077,Jhelum Express,Hyderabad,Bangalore,31,1020,2346,3366,5610
+12951,Mumbai Rajdhani Express,Hyderabad,Chennai,11,620,1426,2046,3410
+12860,Gitanjali Express,Hyderabad,Chennai,12,640,1472,2112,3520
+12007,Mysuru Shatabdi Express,Hyderabad,Kolkata,15,700,1609,2310,3850
+16382,Himsagar Express,Hyderabad,Kolkata,23,860,1977,2838,4730
+12213,Duronto Express,Hyderabad,Jaipur,22,840,1931,2772,4620
+12002,Bhopal Shatabdi Express,Hyderabad,Jaipur,26,920,2116,3036,5060
+12951,Mumbai Rajdhani Express,Hyderabad,Goa,13,660,1517,2178,3630
+12953,August Kranti Rajdhani Express,Hyderabad,Goa,19,780,1793,2574,4290
+12137,Punjab Mail,Delhi,Hyderabad,31,1020,2346,3366,5610
+12723,Telangana Express,Delhi,Hyderabad,20,800,1839,2640,4400
+12434,Chennai Rajdhani Express,Delhi,Mumbai,28,960,2208,3168,5280
+12723,Telangana Express,Delhi,Mumbai,24,880,2023,2904,4840
+12723,Telangana Express,Delhi,Bangalore,16,720,1655,2376,3960
+12007,Mysuru Shatabdi Express,Delhi,Bangalore,20,800,1839,2640,4400
+12615,Grand Trunk Express,Delhi,Chennai,17,740,1701,2442,4070
+12723,Telangana Express,Delhi,Chennai,20,800,1839,2640,4400
+12434,Chennai Rajdhani Express,Delhi,Kolkata,12,640,1472,2112,3520
+12627,Karnataka Express,Delhi,Kolkata,25,900,2070,2970,4950
+12002,Bhopal Shatabdi Express,Delhi,Jaipur,31,1020,2346,3366,5610
+12723,Telangana Express,Delhi,Jaipur,16,720,1655,2376,3960
+12259,Sealdah Duronto Express,Delhi,Goa,20,800,1839,2640,4400
+12301,Howrah Rajdhani Express,Delhi,Goa,14,680,1563,2244,3740
+12259,Sealdah Duronto Express,Mumbai,Hyderabad,8,560,1288,1848,3080
+11077,Jhelum Express,Mumbai,Hyderabad,19,780,1793,2574,4290
+12723,Telangana Express,Mumbai,Delhi,17,740,1701,2442,4070
+11077,Jhelum Express,Mumbai,Delhi,32,1040,2392,3432,5720
+12259,Sealdah Duronto Express,Mumbai,Bangalore,27,940,2162,3102,5170
+12860,Gitanjali Express,Mumbai,Bangalore,8,560,1288,1848,3080
+12723,Telangana Express,Mumbai,Chennai,14,680,1563,2244,3740
+12259,Sealdah Duronto Express,Mumbai,Chennai,11,620,1426,2046,3410
+12723,Telangana Express,Mumbai,Kolkata,31,1020,2346,3366,5610
+12007,Mysuru Shatabdi Express,Mumbai,Kolkata,27,940,2162,3102,5170
+12953,August Kranti Rajdhani Express,Mumbai,Jaipur,14,680,1563,2244,3740
+12434,Chennai Rajdhani Express,Mumbai,Jaipur,22,840,1931,2772,4620
+12007,Mysuru Shatabdi Express,Mumbai,Goa,36,1120,2576,3696,6160
+12860,Gitanjali Express,Mumbai,Goa,25,900,2070,2970,4950
+16382,Himsagar Express,Bangalore,Hyderabad,36,1120,2576,3696,6160
+12137,Punjab Mail,Bangalore,Hyderabad,23,860,1977,2838,4730
+12615,Grand Trunk Express,Bangalore,Delhi,36,1120,2576,3696,6160
+11077,Jhelum Express,Bangalore,Delhi,18,760,1747,2508,4180
+12213,Duronto Express,Bangalore,Mumbai,11,620,1426,2046,3410
+12860,Gitanjali Express,Bangalore,Mumbai,35,1100,2530,3630,6050
+12627,Karnataka Express,Bangalore,Chennai,10,600,1380,1980,3300
+12434,Chennai Rajdhani Express,Bangalore,Chennai,32,1040,2392,3432,5720
+12259,Sealdah Duronto Express,Bangalore,Kolkata,8,560,1288,1848,3080
+12213,Duronto Express,Bangalore,Kolkata,24,880,2023,2904,4840
+12002,Bhopal Shatabdi Express,Bangalore,Jaipur,10,600,1380,1980,3300
+12951,Mumbai Rajdhani Express,Bangalore,Jaipur,32,1040,2392,3432,5720
+12137,Punjab Mail,Bangalore,Goa,19,780,1793,2574,4290
+12953,August Kranti Rajdhani Express,Bangalore,Goa,11,620,1426,2046,3410
+12621,Tamil Nadu Express,Chennai,Hyderabad,36,1120,2576,3696,6160
+12434,Chennai Rajdhani Express,Chennai,Hyderabad,13,660,1517,2178,3630
+12723,Telangana Express,Chennai,Delhi,17,740,1701,2442,4070
+11077,Jhelum Express,Chennai,Delhi,16,720,1655,2376,3960
+11077,Jhelum Express,Chennai,Mumbai,24,880,2023,2904,4840
+12259,Sealdah Duronto Express,Chennai,Mumbai,16,720,1655,2376,3960
+12213,Duronto Express,Chennai,Bangalore,8,560,1288,1848,3080
+12301,Howrah Rajdhani Express,Chennai,Bangalore,33,1060,2438,3498,5830
+12259,Sealdah Duronto Express,Chennai,Kolkata,17,740,1701,2442,4070
+11077,Jhelum Express,Chennai,Kolkata,26,920,2116,3036,5060
+12615,Grand Trunk Express,Chennai,Jaipur,34,1080,2484,3564,5940
+12615,Grand Trunk Express,Chennai,Jaipur,31,1020,2346,3366,5610
+12301,Howrah Rajdhani Express,Chennai,Goa,17,740,1701,2442,4070
+12002,Bhopal Shatabdi Express,Chennai,Goa,35,1100,2530,3630,6050
+16382,Himsagar Express,Kolkata,Hyderabad,21,820,1885,2706,4510
+12007,Mysuru Shatabdi Express,Kolkata,Hyderabad,12,640,1472,2112,3520
+12007,Mysuru Shatabdi Express,Kolkata,Delhi,10,600,1380,1980,3300
+12259,Sealdah Duronto Express,Kolkata,Delhi,19,780,1793,2574,4290
+16382,Himsagar Express,Kolkata,Mumbai,31,1020,2346,3366,5610
+12007,Mysuru Shatabdi Express,Kolkata,Mumbai,21,820,1885,2706,4510
+12723,Telangana Express,Kolkata,Bangalore,11,620,1426,2046,3410
+12259,Sealdah Duronto Express,Kolkata,Bangalore,12,640,1472,2112,3520
+12860,Gitanjali Express,Kolkata,Chennai,29,980,2254,3234,5390
+12627,Karnataka Express,Kolkata,Chennai,19,780,1793,2574,4290
+12007,Mysuru Shatabdi Express,Kolkata,Jaipur,20,800,1839,2640,4400
+12621,Tamil Nadu Express,Kolkata,Jaipur,26,920,2116,3036,5060
+12137,Punjab Mail,Kolkata,Goa,9,580,1334,1914,3190
+12951,Mumbai Rajdhani Express,Kolkata,Goa,23,860,1977,2838,4730
+12723,Telangana Express,Jaipur,Hyderabad,24,880,2023,2904,4840
+12137,Punjab Mail,Jaipur,Hyderabad,16,720,1655,2376,3960
+16382,Himsagar Express,Jaipur,Delhi,19,780,1793,2574,4290
+12301,Howrah Rajdhani Express,Jaipur,Delhi,35,1100,2530,3630,6050
+12953,August Kranti Rajdhani Express,Jaipur,Mumbai,14,680,1563,2244,3740
+16382,Himsagar Express,Jaipur,Mumbai,11,620,1426,2046,3410
+16382,Himsagar Express,Jaipur,Bangalore,34,1080,2484,3564,5940
+12213,Duronto Express,Jaipur,Bangalore,19,780,1793,2574,4290
+12615,Grand Trunk Express,Jaipur,Chennai,15,700,1609,2310,3850
+11077,Jhelum Express,Jaipur,Chennai,10,600,1380,1980,3300
+12007,Mysuru Shatabdi Express,Jaipur,Kolkata,23,860,1977,2838,4730
+12137,Punjab Mail,Jaipur,Kolkata,29,980,2254,3234,5390
+12137,Punjab Mail,Jaipur,Goa,17,740,1701,2442,4070
+11077,Jhelum Express,Jaipur,Goa,16,720,1655,2376,3960
+11077,Jhelum Express,Goa,Hyderabad,35,1100,2530,3630,6050
+12860,Gitanjali Express,Goa,Hyderabad,16,720,1655,2376,3960
+16382,Himsagar Express,Goa,Delhi,28,960,2208,3168,5280
+12860,Gitanjali Express,Goa,Delhi,28,960,2208,3168,5280
+12951,Mumbai Rajdhani Express,Goa,Mumbai,15,700,1609,2310,3850
+12137,Punjab Mail,Goa,Mumbai,25,900,2070,2970,4950
+12301,Howrah Rajdhani Express,Goa,Bangalore,34,1080,2484,3564,5940
+12137,Punjab Mail,Goa,Bangalore,19,780,1793,2574,4290
+12137,Punjab Mail,Goa,Chennai,11,620,1426,2046,3410
+12259,Sealdah Duronto Express,Goa,Chennai,12,640,1472,2112,3520
+12627,Karnataka Express,Goa,Kolkata,32,1040,2392,3432,5720
+12301,Howrah Rajdhani Express,Goa,Kolkata,32,1040,2392,3432,5720
+12259,Sealdah Duronto Express,Goa,Jaipur,15,700,1609,2310,3850
+12213,Duronto Express,Goa,Jaipur,31,1020,2346,3366,5610
