@@ -129,24 +129,25 @@ tripsmart/
 ### Home Page
 Beautiful gradient UI with feature cards and destination recommendations
 
-<img width="1913" height="1125" alt="image" src="https://github.com/user-attachments/assets/aa30db19-525b-4714-9fe0-4fa401b7e9ee" />
+<img width="1546" height="909" alt="Screenshot 2026-03-05 205615" src="https://github.com/user-attachments/assets/9525c3d5-589f-4627-82cf-d249234fe3a8" />
 
 ### Trip Planner
 Complete itinerary with flights, hotels, places and weather in one view
 
-<img width="2000" height="957" alt="image" src="https://github.com/user-attachments/assets/5d268dc3-ec74-44e8-b8b1-3d2cdeeed496" />
+<img width="1905" height="911" alt="Screenshot 2026-03-05 204414" src="https://github.com/user-attachments/assets/5761c25e-82a7-451d-a70f-bf94292d5fb3" />
 
-<img width="1784" height="1125" alt="image" src="https://github.com/user-attachments/assets/6b28c85e-a5f7-4e62-90b7-34ebbd8997d4" />
+<img width="1438" height="907" alt="Screenshot 2026-03-05 204123" src="https://github.com/user-attachments/assets/e4636584-4f73-4194-9fb3-62d636b9d229" />
 
 ### AI Assistant
 Conversational interface powered by Google Gemini for instant travel advice
 
-<img width="1702" height="937" alt="image" src="https://github.com/user-attachments/assets/342f137b-ca91-4179-8960-41dc4e11020a" />
+<img width="1625" height="895" alt="Screenshot 2026-03-05 202222" src="https://github.com/user-attachments/assets/8096f034-6877-46f3-8b58-4364bf023cb7" />
 
 ### Landmark Finder
 Upload any landmark image and get instant recognition with details
 
-<img width="2000" height="941" alt="image" src="https://github.com/user-attachments/assets/83686527-290e-4394-afe5-f69a8c8984ec" />
+<img width="1911" height="900" alt="Screenshot 2026-03-05 203952" src="https://github.com/user-attachments/assets/3e71c7b8-a74e-483e-ad7d-5c5bb6339d03" />
+
 
 ---
 
