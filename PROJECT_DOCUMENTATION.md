@@ -256,32 +256,4 @@ Apply NLP to analyze hotel and attraction reviews, extracting insights beyond si
 
 ---
 
-## References
-
-### Machine Learning & AI
-
-1. **"Deep Learning with Python"** - François Chollet, 2021
-   Comprehensive guide to TensorFlow and Keras, foundational for our CNN implementation.
-
-2. **"Hands-On Machine Learning with Scikit-Learn"** - Aurélien Géron, 2022
-   Practical ML techniques used in our regression and recommendation models.
-
-3. **"Gemini: A Family of Highly Capable Multimodal Models"** - Google DeepMind, 2023
-   Technical paper on the LLM powering our conversational assistant.
-
-### Travel Industry
-
-4. **"AI in Travel Industry"** - McKinsey & Company, 2023
-    Industry analysis informing our feature priorities.
-
-5. **"Global Travel Technology Market Report"** - Phocuswright, 2024
-    Market trends and user needs in travel technology.
-
-### Data Sources
-
-6. **OpenWeather API** - https://openweathermap.org
-    Weather forecast integration.
-
----
-
 *This documentation was created for academic and presentation purposes, demonstrating practical machine learning applications in travel technology.*
